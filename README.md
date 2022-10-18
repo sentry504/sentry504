@@ -1,3 +1,4 @@
+![monophy](https://user-images.githubusercontent.com/59220885/196550289-b372edcc-d0cc-43f5-8573-0ababe3a8850.gif)
 ### Hi there 👋, I'm Carlos Suazo
 ## Welcome to my github profile.
 
@@ -7,7 +8,7 @@ const sentry504={
   tools: ['React','Node','ASP.NET'],
   database: ['SQL Server','Posgresql','firestore'],
   IDEs_Editores: ['VS Code','Visual Studio 2022','NetBeans'],
-  others: ['Firebase','boostrap','React Query','lotiefiles']
+  others: ['Firebase','boostrap','React Query','lottiefiles']
 }
 ```
 ### 🔭 I’m currently working on creating my website to show my portfolio
