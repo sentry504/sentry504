@@ -12,7 +12,7 @@ const sentry504={
 ```
 ### 🔭 I’m currently working on creating my website to show my portfolio
 ### 🌱 I’m currently learning Japanese and improving my English skills
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sentry504)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sentry504/sentry504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
