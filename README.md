@@ -1,7 +1,7 @@
 ![monophy](https://user-images.githubusercontent.com/59220885/196550289-b372edcc-d0cc-43f5-8573-0ababe3a8850.gif)
 
 ### Hi there 👋, I'm Carlos
-**Programmer based in San Pedro Sula, Honduras 🇭🇳**
+**Software Developer based in San Pedro Sula, Honduras 🇭🇳**
 
 ```js
 const sentry504 = {
@@ -13,20 +13,19 @@ const sentry504 = {
   cloud: ['Azure', 'Google Cloud', 'Firebase'],
   tools: ['Visual Studio', 'Android Studio', 'VS Code', 'Git']
 }
-```
-### 🔭 I’m currently working on creating my website to show my portfolio
-### 🌱 I’m currently learning Japanese and improving my English skills
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sentry504)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**sentry504/sentry504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Experience & Key Contributions
+I am currently working as a Software Developer, focusing on robust business solutions, enterprise architecture, and system integrations. My most significant contributions to date include:
 
-Here are some ideas to get you started:
+🔄 Magaya to SAP Integration: Developed a seamless automated integration for synchronizing system records between Magaya logistics software and SAP.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 Xpress Ecosystem: Lead the development and management of the Xpress application environment, encompassing comprehensive modules for Sales, Logistics, Marketing, Administration, and Management.
+
+📦 Proyesa Custom System: Created a complete, end-to-end inventory and billing management system for the customs agency Proyesa.
+
+🔭 What I'm currently up to
+Developing projects to expand my skill set, put new concepts into practice, and facilitate access to content for the community through my applications.
+
+🌱 I’m currently learning
+Japanese language skills 🇯🇵
+
+Improving my English communication 🇺🇸
