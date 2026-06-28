@@ -1,13 +1,17 @@
 ![monophy](https://user-images.githubusercontent.com/59220885/196550289-b372edcc-d0cc-43f5-8573-0ababe3a8850.gif)
+
 ### Hi there 👋, I'm Carlos
+**Junior Programmer based in San Pedro Sula, Honduras 🇭🇳**
 
 ```js
-const sentry504={
-  code: ['Javascript','HTML','CSS','C#','VisualBasic'],
-  tools: ['React','Node','ASP.NET'],
-  database: ['SQL Server','Posgresql','firestore'],
-  IDEs_Editores: ['VS Code','Visual Studio 2022','NetBeans'],
-  others: ['Firebase','boostrap','React Query','lottiefiles']
+const sentry504 = {
+  languages: ['C#', 'Visual Basic', 'Java', 'JavaScript', 'Python', 'SQL', 'HTML', 'CSS'],
+  frontend_mobile: ['React', 'Android (XML)', 'Flutter', '.NET MAUI', 'Blazor'],
+  backend: ['ASP.NET', 'Node.js', 'Express.js'],
+  integrations: ['REST APIs', 'SOAP', 'SAP', 'Magaya'],
+  database: ['SQL Server', 'PostgreSQL', 'MySQL', 'Firestore'],
+  cloud: ['Azure', 'Google Cloud', 'Firebase'],
+  tools: ['Visual Studio', 'Android Studio', 'VS Code', 'Git']
 }
 ```
 ### 🔭 I’m currently working on creating my website to show my portfolio
