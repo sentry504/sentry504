@@ -1,7 +1,7 @@
 ![monophy](https://user-images.githubusercontent.com/59220885/196550289-b372edcc-d0cc-43f5-8573-0ababe3a8850.gif)
 
 ### Hi there 👋, I'm Carlos
-**Junior Programmer based in San Pedro Sula, Honduras 🇭🇳**
+**Programmer based in San Pedro Sula, Honduras 🇭🇳**
 
 ```js
 const sentry504 = {
